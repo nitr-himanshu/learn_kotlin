@@ -1,5 +1,11 @@
 # Kotlin : Variables
 
+- [Kotlin : Variables](#kotlin--variables)
+  - [Syntax](#syntax)
+  - [Val](#val)
+  - [Var](#var)
+  - [Key points](#key-points)
+
 ## Syntax
 
 ```kotlin
@@ -39,3 +45,7 @@ fun main() {
     println(typeInferBool)
 }
 ```
+
+## Key points
+
+- Kotlin favour immutability by default.
