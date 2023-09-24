@@ -27,6 +27,5 @@ Scala and Kotlin.
 
 ## References
 
-- https://kotlinlang.org/
-- https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o?u=67551194
-- https://github.com/LinkedInLearning/kotlin-essential-training-functions-collections-and-io-3008787
+- [kotlinlang.org](https://kotlinlang.org/)
+- [Linkedin learning : kotlin-essential-training](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o?u=67551194)
